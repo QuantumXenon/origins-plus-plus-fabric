@@ -1,3 +1,3 @@
 [submodule "resources"]
-	path = src/main/resources
+	path = src/main/origins-plus-plus
 	url = https://github.com/quantumxenon/origins-plus-plus

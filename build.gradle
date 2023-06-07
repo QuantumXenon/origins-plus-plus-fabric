@@ -13,7 +13,7 @@ dependencies {
 sourceSets {
     main {
         resources {
-            srcDirs("src/main/fabric")
+            srcDirs("src/main/fabric","src/main/origins-plus-plus")
         }
     }
 }
