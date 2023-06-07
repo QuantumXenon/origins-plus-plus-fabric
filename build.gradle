@@ -10,6 +10,14 @@ dependencies {
     mappings("net.fabricmc:yarn:${project.minecraft_version}+${project.yarn_mappings}:v2")
 }
 
+sourceSets {
+    main {
+        resources {
+            srcDirs("src/main/fabric")
+        }
+    }
+}
+
 processResources {
     exclude(".github")
     filesMatching(["fabric.mod.json","quilt.mod.json"]) {
