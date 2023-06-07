@@ -3,6 +3,7 @@ plugins {
 }
 
 version = project.mod_version
+archivesBaseName = 'origins-plus-plus'
 
 dependencies {
     minecraft("com.mojang:minecraft:${project.minecraft_version}")
