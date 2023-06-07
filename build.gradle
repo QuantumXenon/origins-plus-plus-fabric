@@ -10,6 +10,7 @@ dependencies {
 }
 
 processResources {
+    exclude(".github")
     filesMatching("fabric.mod.json") {
         expand("version": project.version)
     }
