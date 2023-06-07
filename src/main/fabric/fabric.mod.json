@@ -2,7 +2,7 @@
 	"schemaVersion":1,
 	"id":"origins-plus-plus",
 	"name":"Origins++",
-	"version":"2.1",
+	"version":"${version}",
 	"description":"A collection of more than 100 origins to fully expand the origins experience.",
 	"license":"MIT",
 	"icon":"icon.png",
