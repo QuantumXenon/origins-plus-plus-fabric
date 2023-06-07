@@ -20,7 +20,7 @@ sourceSets {
 
 processResources {
     exclude(".github")
-    filesMatching(["fabric.mod.json","quilt.mod.json"]) {
+    filesMatching("fabric.mod.json") {
         expand("version": project.version)
     }
 }
