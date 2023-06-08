@@ -19,7 +19,7 @@ sourceSets {
 }
 
 processResources {
-    exclude(".github")
+    exclude(".github","README.md")
     filesMatching("fabric.mod.json") {
         expand("version": project.version)
     }
