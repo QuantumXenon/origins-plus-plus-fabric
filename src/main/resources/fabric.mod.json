@@ -10,11 +10,12 @@
 		"TheQuantumXenon"
 	],
 	"contributors":[
-		"Credit goes to original authors (see CurseForge description)."
+		"All the original authors (click the 'Source' button')."
 	],
 	"contact":{
 		"homepage":"https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus",
-		"issues":"https://github.com/QuantumXenon/origins-plus-plus/issues"
+		"issues":"https://github.com/QuantumXenon/origins-plus-plus/issues",
+		"sources": "https://gist.github.com/QuantumXenon/d7ec9ceee0f8897410cff5088307f028"
 	},
 	"depends":{
 		"minecraft":"*",
