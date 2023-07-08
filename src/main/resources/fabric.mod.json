@@ -19,7 +19,6 @@
 	},
 	"depends":{
 		"minecraft":"*",
-		"fabric":"*",
 		"origins":"*",
 		"pehkui":"*"
 	}
